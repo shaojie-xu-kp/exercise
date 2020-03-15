@@ -8,10 +8,13 @@ No installation required.
 ## Run Service
 
 ```
-cd demo
-
 ./mvnw spring-boot:run
 
+```
+
+## Test Service
+
+```
 curl localhost:8080/visits
 ```
 
